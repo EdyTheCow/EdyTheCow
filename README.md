@@ -27,11 +27,4 @@
 
 ----
 
-<a href="https://twitter.com/edythecow">
-  <img align="left" alt="Eddy's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/6c757d" />
-</a>
-<a href="https://linkedin.com/in/edy">
-  <img align="left" alt="Eddy's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/6c757d" />
-</a>
-
 | &nbsp;&nbsp;&nbsp; Website : [https://edy.io](https://edy.io)
