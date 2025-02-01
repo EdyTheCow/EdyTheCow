@@ -27,4 +27,4 @@
 
 ----
 
-| &nbsp;&nbsp;&nbsp; Website : [https://edy.io](https://edy.io)
+Website : [https://edy.io](https://edy.io)
